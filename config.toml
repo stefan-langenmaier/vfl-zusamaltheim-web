@@ -1,0 +1,53 @@
+baseurl = "https://www.vflzusamaltheim.de/"
+languageCode = "de-de"
+title = "VfL Zusamaltheim"
+theme = "hugo-material-docs"
+metadataformat = "yaml"
+canonifyurls = true
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = ""
+
+[params]
+	# General information
+	author = "VfL Zusamaltheim"
+	description = "Die Webseite des VfL Zusamaltheim."
+	copyright = "Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung 4.0 International Lizenz"
+
+	# Repository
+	provider = "GitHub"
+	repo_url = "https://github.com/stefan-langenmaier/vfl-zusamaltheim.de"
+
+	version = "0.1.0"
+	logo = "images/vfl-logo.png"
+	favicon = "images/favicon.png"
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+
+	[params.palette]
+    	primary = "red"
+    	accent  = "teal"
+
+    [params.font]
+    	text = "Ubuntu"
+    	code = "Ubuntu Mono"
+
+
+[social]
+    facebook = "https://www.facebook.com/vflzusamaltheim/"
+	twitter  = ""
+	fupa  = "https://www.fupa.net/club/vfl-zusamaltheim"
+	bfv  = "http://bfv.de/verein.do?id=00ES8GNJJ400000EVV0AG08LVUPGND5I"
+	email    = "info@vflzusamaltheim.de"
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true
