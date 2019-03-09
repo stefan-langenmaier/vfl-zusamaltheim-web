@@ -6,3 +6,10 @@ weight: 0
 ---
 
 Herzlich Willkommen auf der Online-Präsens des VfL Zusamaltheims!
+
+Der VfL Zusamaltheim umfasst insgesamt vier Abteilungen.
+
+[![Fussball](/images/icons/football.jpg)]({{< ref "/fussball/_index.md" >}})
+[![Tennis](/images/icons/tennis.jpg)]({{< ref "/tennis/_index.md" >}})
+[![Tischtennis](/images/icons/tabletennis.jpg)]({{< ref "/tischtennis/_index.md" >}})
+[![Turnen](/images/icons/athletics.jpg)]({{< ref "/turnen/_index.md" >}})

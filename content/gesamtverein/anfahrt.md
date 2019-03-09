@@ -3,7 +3,7 @@ title: Anfahrt
 layout: single
 menu:
   main:
-    parent: gv
+    parent: gesamtverein
 weight: 20
 ---
 

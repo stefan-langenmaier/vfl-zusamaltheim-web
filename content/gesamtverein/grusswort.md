@@ -3,7 +3,7 @@ title: Grusswort
 layout: single
 menu:
   main:
-    parent: gv
+    parent: gesamtverein
 ---
 
 Im Namen der Vorstandschaft begrüße ich Sie recht herzlich auf der Internetseite des VfL.

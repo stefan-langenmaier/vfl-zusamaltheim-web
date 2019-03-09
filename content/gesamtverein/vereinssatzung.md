@@ -3,7 +3,7 @@ title: Vereinssatzung
 layout: single
 menu:
   main:
-    parent: gv
+    parent: gesamtverein
 ---
 
 Nachstehend die aktuelle Vereinssatzung des VfL Zusamaltheim:
