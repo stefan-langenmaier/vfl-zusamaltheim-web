@@ -17,9 +17,9 @@ menu:
 <tbody>
 <tr class="odd">
 <td>Abteilungsleiter:</td>
-<td>Rainer Manzenrieder</td>
-<td>0176/ 84412897</td>
-<td><a title="Mail an Herrn Rainer Manzenrieder" href="mailto:rainer-manzenrieder@web.de">rainer-manzenrieder@web.de</a></td>
+<td>Arjan Plooij</td>
+<td>0160/ 97978805</td>
+<td><a title="Mail an Herrn Arjan Plooij" href="mailto:plooija85@googlemail.com">plooija85@googlemail.com</a></td>
 </tr>
 <tr>
 <td>Abteilungsleiter(stv)</td>
