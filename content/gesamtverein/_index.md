@@ -32,16 +32,15 @@ weight: 10
 </tr>
 <tr class="even">
 <td align="right">Kassierer:<br></td>
-<td><br></td>
-<td>&nbsp;</td>
-<td><br></td>
-<td>&nbsp;</td>
+<td>Andreas Lernhard<br><br></td>
+<td>andreas.lernhard@web.de</td>
+<td>Tel: 0175/ 260 618 3<br><br></td>
+<td>86637 Zusamaltheim<br>Feldstraße 7</td>
 </tr>
 <tr class="odd">
 <td align="right">Schriftführer:<br></td>
 <td>Rudolf Wagner<br></td>
-<td>
-<p>rudolf.wagner@web.de<br>rudolf.wagner.a@man.eu</p>
+<td>rudolf.wagner@web.de<br></td>
 </td>
 <td>Tel: 0176/ 615 714 98<br>Tel: 08296/ 969 629 5</td>
 <td>86637 Villenbach<br>Hauptstraße 7</td>
@@ -73,10 +72,10 @@ weight: 10
 <td>86637 Zusamaltheim<br>Lehbergring 23</td>
 </tr>
 <tr>
-<td>Nicole Schuster</td>
-<td>nicki.dwt15@gmail.com</td>
-<td>Tel: 08272 / 5766</td>
-<td>86637 Zusamaltheim<br>Alte Wertinger Straße 7</td>
+<td>Josef Kaim</td>
+<td>Kaim@top-vers.de</td>
+<td>Tel: 0172 / 524 392 3</td>
+<td>86637 Zusamaltheim<br>Mühlenweg 1</td>
 </tr>
 <tr>
 <td>Günter Egger</td>
@@ -115,10 +114,10 @@ weight: 10
 </tr>
 <tr class="odd">
 <td align="right">Abteilungsleiter-Tischtennis:<br><br></td>
-<td>Josef Kaim<br><br></td>
-<td>Kaim@top-vers.de<br><br></td>
-<td>Tel: 0172 / 524 392 3<br><br></td>
-<td>86637 Zusamaltheim<br>Mühlenweg 1</td>
+<td>Nicole Schuster<br><br></td>
+<td>nicki.dwt15@gmail.com<br><br></td>
+<td>Tel: 08272 / 5766<br>Tel: 0151 / 4634153<br></td>
+<td>86637 Zusamaltheim<br>Alte Wertinger Straße 7</td>
 </tr>
 <tr class="even">
 <td align="right">Abteilungsleiter -Tennis:<br><br></td>

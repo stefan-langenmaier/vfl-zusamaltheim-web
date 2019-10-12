@@ -29,9 +29,9 @@ menu:
 </tr>
 <tr class="even">
 <td>Jugendleiter:</td>
-<td>Jochen Manzenrieder</td>
-<td>0176/83329756</td>
-<td><a title="Mail z.Hd. Herrn Jochen Manzenrieder" href="mailto: jochen.manzenrieder@freenet.de">jochen.manzenrieder@freenet.de</a></td>
+<td>Markus Hefele</td>
+<td>0152/ 292 303 59</td>
+<td><a title="Mail z.Hd. Herrn Jochen Manzenrieder" href="mailto:markus9@online.de">markus9@online.de</a></td>
 </tr>
 <tr class="odd">
 <td>Pressewart (Sen.):</td>
@@ -41,9 +41,9 @@ menu:
 </tr>
 <tr class="even">
 <td>Pressewart (Jun.):</td>
-<td>David Deisenhofer</td>
+<td>xxx xxx</td>
 <td>...</td>
-<td><a title="Mail an Herrn David Deisenhofer" href="mailto:michael@langenmaier.de">david.deisenhofer@donau-zeitung.de</a></td>
+<td><a title="Mail an Herrn xxx xxx" href="mailto:xxx">xxx</a></td>
 </tr>
 <tr>
 </tr>
@@ -51,7 +51,7 @@ menu:
 <td>Ergebnisdienst:<br>(Sportheim)</td>
 <td>Sportheim <br> Obere Dorfstr.</td>
 <td>08272/3158</td>
-<td><a title="Mail an VfL Zusamaltheim" href="mailtto:vflzusamaltheim@langenmaier.de">vflzusamaltheim@langenmaier.de</a></td>
+<td><a title="Mail an VfL Zusamaltheim" href="mailtto:info@vflzusamaltheim.de">info@vflzusamaltheim.de</a></td>
 </tr>
 </tbody>
 </table>

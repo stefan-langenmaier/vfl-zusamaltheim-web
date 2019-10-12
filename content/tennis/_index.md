@@ -17,9 +17,9 @@ menu:
 <tbody>
 <tr class="odd">
 <td>Abteilungsleiter:</td>
-<td>Josef Rupp<br></td>
-<td>08272/ 4354<br></td>
-<td>j.rupp5555@gmail.com<br></td>
+<td>Thomas Eisenkolb<br></td>
+<td>08272 / 606 321 4<br>Tel: 0171 / 241 349 7<br></td>
+<td>thomas-eisenkolb@t-online.de<br></td>
 </tr>
 <tr class="even">
 <td>Abteilungsleiter (stv)</td>
@@ -29,11 +29,6 @@ menu:
 </tr>
 <tr>
 </tr>
-<tr class="odd">
-<td>Internetbearbeitung</td>
-<td>Dieter Sprungmann<br></td>
-<td>08272/ 992299<br></td>
-<td>sycgmbh@t-online.de</td>
 </tr>
 </tbody>
 </table>
@@ -65,6 +60,36 @@ menu:
 </tr>
 <tr class="even">
 <td>Mannschaftsführer - Jungen<br></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</thead> 
+<tbody>
+</tbody>
+</table>
+
+### Trainingszeiten - Tennis
+
+<table>
+<thead> 
+<tr>
+<th>Mannschaften</th><th>Uhrzeiten<br></th>
+</tr>
+<tr class="odd">
+<td>Damen<br></td>
+<td>Jeden Mittwoch ab 17:30 Uhr<br></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Herren<br></td>
+<td>Jeden Dienstag ab 18:00 Uhr<br></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Kids / Jugend<br></td>
+<td>Jeden Freitag ab 16:00 Uhr<br></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

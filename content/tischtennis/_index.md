@@ -17,9 +17,9 @@ menu:
 <tbody>
 <tr class="odd">
 <td>Abteilungsleiter:</td>
-<td>Josef Kaim<br></td>
-<td>08272/999510 (g)<br>0172/ 5243923<br></td>
-<td><a title="Mail an Herrn Josef Kaim" href="mailto:kaim@top-vers.de">kaim@top-vers.de</a><br></td>
+<td>Nicole Schuster<br></td>
+<td>Tel: 08272 / 5766<br>0151 / 4634153<br></td>
+<td><a title="Mail an Herrn Josef Kaim" href="mailto:nicki.dwt15@gmail.com">nicki.dwt15@gmail.com</a><br></td>
 </tr>
 <tr class="even">
 <td>Abteilungsleiter<br>(Stellvertreter)</td>

@@ -69,8 +69,8 @@ menu:
 </tr>
 <tr class="odd">
 <td>Body-Fit</td>
-<td>Wolfgang Patz</td>
-<td>08272/ 4566</td>
+<td>Dunja Reiter</td>
+<td>08272/ 6219</td>
 <td>Montag, 20.00 - 22.00 h</td>
 </tr>
 <tr>
@@ -78,6 +78,12 @@ menu:
 <td>Irene Kaim</td>
 <td>0172/ 9213340</td>
 <td>Donnerstag, 18.30 - 19.30 h</td>
+</tr>
+<tr>
+<td>Kindertanzen</td>
+<td>Melanie Braumgart</td>
+<td>0163/ 7266065</td>
+<td>xxx, xx.xx - xx.xx h</td>
 </tr>
 </thead> 
 <tbody>
