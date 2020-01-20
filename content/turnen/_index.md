@@ -73,13 +73,13 @@ menu:
 <td>08272/ 6219</td>
 <td>Montag, 20.00 - 22.00 h</td>
 </tr>
-<tr>
+<tr class="even">
 <td>Step</td>
-<td>Irene Kaim</td>
-<td>0172/ 9213340</td>
+<td>Gertrud Mühlberger</td>
+<td>0176/72936348</td>
 <td>Donnerstag, 18.30 - 19.30 h</td>
 </tr>
-<tr>
+<tr class="odd">
 <td>Kindertanzen</td>
 <td>Melanie Braumgart</td>
 <td>0163/ 7266065</td>
