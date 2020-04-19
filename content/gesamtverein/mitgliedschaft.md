@@ -20,4 +20,4 @@ Email: reiter225@gmx.de
 
 Mitgliedsantrag VfL Zusamaltheim (bitte ausdrucken):
 
-[Download](/docs/beitragsformular_2015_sepa.doc)
+[Download](/docs/beitragsformular.pdf)
