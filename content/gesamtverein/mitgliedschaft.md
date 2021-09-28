@@ -15,7 +15,7 @@ Er wird sich anschließend umgehend mit Ihnen in Verbindung setzen.
 
 ```text
 Telefon: 0176 / 322 815 67
-Email: reiter225@gmx.de
+Email: mitglieder-vflzusamaltheim@gmx.de
 ```
 
 Mitgliedsantrag VfL Zusamaltheim (bitte ausdrucken):
