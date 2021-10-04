@@ -1,0 +1,31 @@
+name: Publish VfL-Website
+
+on:
+  push:
+
+jobs:
+  build:
+    name: Publish VfL-Website
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.51'
+
+      - name: Build
+        run: hugo
+
+      - name: Upload
+        uses: SamKirkland/FTP-Deploy-Action@3.1.1 # last version with sftp support
+        with:
+          ftp-server:   ${{ secrets.SFTP_HOST }}
+          ftp-username: ${{ secrets.SFTP_USER }}
+          ftp-password: ${{ secrets.SFTP_PASS }}
+          local-dir: public
+          git-ftp-args: --insecure
