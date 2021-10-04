@@ -7,6 +7,8 @@ menu:
 weight: 20
 ---
 
+SEI  DABEI !!!      ->      WERDE  MITGLIED  BEIM  VFL  ZUSAMALTHEIM
+
 Sie möchten gerne aktiv in einer unserer vier Abteilungen Sport betreiben oder als passives Mitglied den VfL Zusamaltheim unterstützen?
 
 Wenn Sie an einer Mitgliedschaft beim VfL Zusamaltheim interessiert sind, dann drucken Sie bitte nachstehende Beitrittserklärung aus und senden bitte den Antrag per Post oder Email-Anlage an Martin Reiter
@@ -20,4 +22,7 @@ Email: mitglieder-vflzusamaltheim@gmx.de
 
 Mitgliedsantrag VfL Zusamaltheim (bitte ausdrucken):
 
-[Download](/docs/Beitragsformular_mit_SEPA_neu_2020.pdf)
+[Download](/docs/Beitragsformular_mit_SEPA_neu_2021.pdf)
+
+[![Mitgliedschaft VfL Zusamaltheim](/images/Mitgliedschaft/Beitragsformular_mit_SEPA_neu_2021.jpeg)]({{< ref "/gesamtverein/mitgliedschaft.md" >}})
+
