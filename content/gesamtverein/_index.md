@@ -6,6 +6,7 @@ menu:
     identifier: gesamtverein
 weight: 10
 ---
+[![Vorstandschaft VfL Zusamaltheim](/images/Vorstandschaft/vorstandschaft_2021.jpeg)]({{< ref "/gesamtverein/_index.md" >}})
 
 ## Ansprechpartner
 
@@ -19,9 +20,9 @@ weight: 10
 <tr class="even">
 <td align="right">1.Vorstand:<br><br></td>
 <td>Erich Wieland<br><br></td>
-<td>erichwieland2006@web.de<br>erich.wieland@faurecia.com</td>
+<td>erichwieland2006@web.de<br></td>
 <td>Tel: 0170 / 891 717 8<br><br></td>
-<td>86637 Zusamaltheim<br>Raunsbergweg 13</td>
+<td>86637 Riedsend<br>Eichenweg 12</td>
 </tr>
 <tr class="odd">
 <td align="right">2.Vorstand:<br><br></td>
@@ -32,17 +33,17 @@ weight: 10
 </tr>
 <tr class="even">
 <td align="right">Kassierer:<br></td>
-<td>Andreas Lernhard<br><br></td>
-<td>andreas.lernhard@web.de</td>
-<td>Tel: 0175/ 260 618 3<br><br></td>
-<td>86637 Zusamaltheim<br>Feldstraße 7</td>
+<td>Manuel Reiter<br><br></td>
+<td>manuelreiter3@gmail.com</td>
+<td>Tel: 0157/ 740 050 57<br><br></td>
+<td>86637 Zusamaltheim<br>Baderstraße 4</td>
 </tr>
 <tr class="odd">
 <td align="right">Schriftführer:<br></td>
 <td>Rudolf Wagner<br></td>
 <td>rudolf.wagner@web.de<br></td>
 </td>
-<td>Tel: 0176/ 615 714 98<br>Tel: 08296/ 969 629 5</td>
+<td>Tel: 0176/ 615 714 98<br>Tel: 08296/ 416</td>
 <td>86637 Villenbach<br>Hauptstraße 7</td>
 </tr>
 <tr class="even">
@@ -53,9 +54,9 @@ weight: 10
 <td>86637 Zusamaltheim<br>Untere Dorfstraße 4</td>
 </tr>
 <tr class="odd">
-<td class="odd" rowspan="6" align="right">Beisitzer:</td>
+<td class="odd" rowspan="10" align="right">Beisitzer:</td>
 <td>Michael Miller</td>
-<td>millermaster91@web.de</td>
+<td>millerm63838@gmail.com</td>
 <td>Tel: 0173 / 440 846 0</td>
 <td>86450 Hennhofen<br>Am Riedle 11</td>
 </tr>
@@ -64,12 +65,6 @@ weight: 10
 <td>reiter225@gmx.de</td>
 <td>Tel: 0176 / 322 815 67</td>
 <td>86637 Wertingen / Roggden<br>Herbststraße 8a</td>
-</tr>
-<tr>
-<td>Bernhard Kitzinger</td>
-<td>bernhardkitzinger@gmail.com</td>
-<td>Tel: 08272 / 5431<br>Tel: 0152 / 098 171 18</td>
-<td>86637 Zusamaltheim<br>Lehbergring 23</td>
 </tr>
 <tr>
 <td>Josef Kaim</td>
@@ -89,6 +84,37 @@ weight: 10
 <td>Tel: 0176 / 833 297 56</td>
 <td>86637 Zusamaltheim<br>Alte Wertinger Straße 4</td>
 </tr>
+<tr>
+<td>Andreas Lernhard</td>
+<td>andreas.lernhard@web.de</td>
+<td>Tel: 0175 / 260 618 3</td>
+<td>86637 Zusamaltheim<br>Feldstraße 7</td>
+</tr>
+<tr>
+<td>Heidrun Thaler</td>
+<td>heidrun.thaler@gmx.de</td>
+<td>Tel: 0177 / 633 203 3</td>
+<td>86637 Hettlingen / Zusamaltheim<br>Wirkaustraße 21</td>
+</tr>
+<tr>
+<td>Maximilian Böhm</td>
+<td>maximilian.boehm38@outlook.com</td>
+<td>Tel: 0151 / 701 098 56</td>
+<td>86637 Zusamaltheim<br>Lärchenweg 8</td>
+</tr>
+<tr>
+<td>Johannes Graf</td>
+<td>Johannes.graf.1908@gmail.com</td>
+<td>Tel: 0151 681 658 82</td>
+<td>86637 Zusamaltheim<br>Lehbergring 1</td>
+</tr>
+<tr>
+<td>Martin Wagner</td>
+<td>Martin1008@gmx.de</td>
+<td>Tel: 0160 / 938 150 63</td>
+<td>86637 Wertingen<br>Edlhardstraße 2</td>
+</tr>
+
 <tr class="even">
 <td align="right">Jugendleiter-Fussball:<br><br></td>
 <td>Markus Hefele<br><br></td>
@@ -114,15 +140,15 @@ weight: 10
 </tr>
 <tr class="odd">
 <td align="right">Abteilungsleiter-Tischtennis:<br><br></td>
-<td>Nicole Schuster<br><br></td>
-<td>nicki.dwt15@gmail.com<br><br></td>
-<td>Tel: 08272 / 5766<br>Tel: 0151 / 4634153<br></td>
-<td>86637 Zusamaltheim<br>Alte Wertinger Straße 7</td>
+<td>Andreas Schlagehaft<br><br></td>
+<td>schlagenhafta@protonmail.ch<br><br></td>
+<td>Tel: 0152 / 233 438 46<br><br></td>
+<td>86637 Zusamaltheim<br>Wertinger Straße 8</td>
 </tr>
 <tr class="even">
 <td align="right">Abteilungsleiter -Tennis:<br><br></td>
 <td>Thomas Eisenkolb<br><br></td>
-<td>t.eisenkolb@tripus.de<br>thomas-eisenkolb@t-online.de</td>
+<td>thomas-eisenkolb@t-online.de<br></td>
 <td>Tel: 08272 / 606 321 4<br>Tel: 0171 / 241 349 7<br></td>
 <td>86637 Zusamaltheim<br>Alte Weiherstraße 2a</td>
 </tr>
