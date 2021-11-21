@@ -12,3 +12,9 @@ Benötigt Hugo 0.51 zum Erstellen.
 ```
 ./hugo server
 ```
+# Inhaltsstruktur Website
+
+1. Ordner: content 
+beinhaltet nur Texte (Format md)
+2. Ordner: static
+behinhaltet alles ausser Texte, wie z.B doc / pdf / Bilder (alle Formate erlaubt)
