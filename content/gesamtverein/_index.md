@@ -100,7 +100,7 @@ weight: 10
 <td>Maximilian Böhm</td>
 <td>maximilian.boehm38@outlook.com</td>
 <td>Tel: 0151 / 701 098 56</td>
-<td>86637 Zusamaltheim<br>Lärchenweg 8</td>
+<td>86637 Zusamaltheim<br>Lerchenweg 8</td>
 </tr>
 <tr>
 <td>Johannes Graf</td>
