@@ -17,22 +17,20 @@ menu:
 <tbody>
 <tr class="odd">
 <td>Abteilungsleiter:</td>
-<td>Nicole Schuster<br></td>
-<td>Tel: 08272 / 5766<br>0151 / 4634153<br></td>
-<td><a title="Mail an Herrn Josef Kaim" href="mailto:nicki.dwt15@gmail.com">nicki.dwt15@gmail.com</a><br></td>
+<td>Andreas Schlagehaft<br></td>
+<td>0152 / 233 438 46<br></td>
+<td><a title="Mail an Herrn Andreas Schlagenhaft" href="mailto:schlagenhafta@protonmail.ch">schlagenhafta@protonmail.ch</a><br></td>
 </tr>
 <tr class="even">
 <td>Abteilungsleiter<br>(Stellvertreter)</td>
-<td>Jürgen Reiter<br></td>
-<td>08272/ 5836<br>08272/ 2807 (g)<br>0172/ 9231348<br></td>
-<td><a title="Mail an Herrn Jürgen Reiter" href="mailto:reiter.metall@gmx.de">reiter.metall@gmx.de</a></td>
+<td>Heidrun Thaler<br></td>
+<td>0177 / 633 203 3<br></td>
+<td><a title="Mail an Frau Heidrun Thaler" href="mailto:heidrun.thaler@gmx.de">heidrun.thaler@gmx.de</a></td>
 </tr>
 <tr class="odd">
 <td>Jugendwart:<br></td>
 <td>Josef Kaim</td>
-<td>
-<p>08272/999510 (g)<br>0172/ 5243923</p>
-</td>
+<td>08272/999510 (g)<br>0172/ 5243923</td>
 <td><a title="Mail an Herrn Josef Kaim" href="mailto:kaim@top-vers.de">kaim@top-vers.de</a></td>
 </tr>
 <tr class="even">
@@ -127,4 +125,6 @@ menu:
 </tr>
 </tbody>
 </table>
+<br>
+[![Tischtennis](/images/tischtennis.jpg)]({{< ref "/tischtennis/_index.md" >}})
 

@@ -9,3 +9,5 @@ weight: 44
 ---
 
 Die Schiedsrichter des VfL
+<br>
+[![Schiedsrichter](/images/schiedsrichter.jpg)]({{< ref "/fussball/schiedsrichter.md" >}})

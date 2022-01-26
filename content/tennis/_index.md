@@ -98,3 +98,5 @@ menu:
 <tbody>
 </tbody>
 </table>
+<br>
+[![Tennis](/images/tennis.jpeg)]({{< ref "/tennis/_index.md" >}})

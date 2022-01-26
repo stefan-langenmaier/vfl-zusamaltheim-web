@@ -89,3 +89,5 @@ menu:
 <tbody>
 </tbody>
 </table>
+<br>
+[![Turnen](/images/turnen.jpg)]({{< ref "/turnen/_index.md" >}})
