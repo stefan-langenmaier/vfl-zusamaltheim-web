@@ -6,7 +6,7 @@ menu:
     identifier: gesamtverein
 weight: 10
 ---
-[![Vorstandschaft VfL Zusamaltheim](/images/Vorstandschaft/vorstandschaft_2021.jpeg)]({{< ref "/gesamtverein/_index.md" >}})
+[![Vorstandschaft VfL Zusamaltheim](/images/Vorstandschaft/vorstandschaft_2021.jpg)]({{< ref "/gesamtverein/_index.md" >}})
 
 ## Ansprechpartner
 
