@@ -21,8 +21,8 @@ Die Mannschaften und Trainer des VfL
 <tr>
 <td><b>G-Jugend:</b><br>SG VFL-SVR-SVV<br>U7 (unter 7 Jahre)</td>
 <td><br>Dirk Petersen<br>Thomas Schnetzer</td>
-<td><br>Roggden<br>Mittwoch, 17:00 - 18:00 Uhr</td>
-<td><br>.....<br>......</td>
+<td><br>Roggden<br>Dienstag, 17:00 - 18:00 Uhr</td>
+<td><br>nach Absprache</td>
 <tr>
 <td><b>F-Jugend-1:</b><br>SG VfL-SVR-SSV-SVO<br>U9 (7-8 Jahre)</td>
 <td><br>Andreas Lernhard<br>...</td>
@@ -40,8 +40,8 @@ Die Mannschaften und Trainer des VfL
 <td><br>Roggden<br>Freitag, 18:00 Uhr</td>
 <tr>
 <td><b>E-Jugend-2:</b><br>SG VfL-SVR-SSV-SVO<br>U11 (9-10 Jahre)</td>
-<td><br>Andreas Doktor<br>Willi Ochsenknecht</td>
-<td><br>Zusamaltheim<br>Mittwoch, 17:00 - 18:30 Uhr<br>Freitag, 17:00 - 18:30 Uhr</td>
+<td><br>Andreas Doktor<br>Willi Ochsenbauer</td>
+<td><br>Zusamaltheim<br>Montag, 17:00 - 18:30 Uhr<br>Mittwoch, 17:00 - 18:30 Uhr</td>
 <td><br>Zusamaltheim<br>Freitag, 17:00 Uhr</td>
 <tr>
 <td><b>D-Jugend-1:</b><br>SV Osterbuch<br>U13 (11-12 Jahre)</td>
@@ -83,4 +83,4 @@ Die Mannschaften und Trainer des VfL
 </tbody>
 </table>
 <br>
-<br>
+[![Fussball](/images/jugendfussball.jpg)]({{< ref "/fussball/mannschaften jugend.md" >}})

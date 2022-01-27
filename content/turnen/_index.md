@@ -90,4 +90,4 @@ menu:
 </tbody>
 </table>
 <br>
-[![Turnen](/images/turnen.jpg)]({{< ref "/turnen/_index.md" >}})
+[![Turnen](/images/turnen_2.jpg)]({{< ref "/turnen/_index.md" >}})

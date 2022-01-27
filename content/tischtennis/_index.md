@@ -126,5 +126,5 @@ menu:
 </tbody>
 </table>
 <br>
-[![Tischtennis](/images/tischtennis.jpg)]({{< ref "/tischtennis/_index.md" >}})
+[![Tischtennis](/images/tischtennis_2.jpg)]({{< ref "/tischtennis/_index.md" >}})
 

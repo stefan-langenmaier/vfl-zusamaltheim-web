@@ -55,5 +55,5 @@ menu:
 </tr>
 </tbody>
 </table>
-[![Fussball](/images/fussball.jpg)]({{< ref "/fussball/_index.md" >}})
+[![Fussball](/images/fussball_2.jpg)]({{< ref "/fussball/_index.md" >}})
 

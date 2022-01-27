@@ -99,4 +99,4 @@ menu:
 </tbody>
 </table>
 <br>
-[![Tennis](/images/tennis.jpeg)]({{< ref "/tennis/_index.md" >}})
+[![Tennis](/images/tennis_2.jpg)]({{< ref "/tennis/_index.md" >}})
