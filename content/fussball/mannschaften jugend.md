@@ -9,7 +9,7 @@ weight: 42
 
 Die Mannschaften und Trainer des VfL
 
-### Jugendmannschaften
+### Jugend-Mannschaften
 <table>
 <thead> 
 <th>Mannschaft</th> <th>Trainer</th> <th>Training <br></th><th>Spiel</th>
