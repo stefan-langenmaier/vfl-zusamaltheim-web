@@ -27,8 +27,8 @@ E-Mail: info@vflzusamaltheim.de
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 ```text
 Erich Wieland
-Raunsbergweg 13
-86637 Zusamaltheim
+Eichenweg 12
+86637 Riedsend
 ```
 
 ## Haftungsausschluss:
@@ -46,3 +46,23 @@ Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wi
 Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
+
+### Protokollierung
+
+Auf dem Webserver des VfL Zusamaltheim werden keine IP-Adressen oder andere personenbezogene Daten protokolliert.
+
+### Cookies
+
+Es werden keine Cookies gesetzt oder verwendet
+
+### Aktive Komponenten
+
+Im Informationsangebot des VfL Zusamaltheim werden grundsätzlich keine aktiven Komponenten wie Javascript, Java-Applets oder Active-X-Controls verwendet.
+
+### E-Mail-Sicherheit
+
+Wenn Sie uns eine E-Mail senden, so wird Ihre E-Mail-Adresse nur für die Korrespondenz mit Ihnen verwendet.
+
+### E-Mail-Verkehr
+
+Eingaben sollten nach Möglichkeit schriftlich erfolgen, da E-Mails grundsätzlich unsicher sind, wenn Sie nicht selbst geegnete Schutzmaßnahmen ergreifen.  
