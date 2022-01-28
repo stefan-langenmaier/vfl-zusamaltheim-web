@@ -56,7 +56,7 @@ menu:
 <th>Funktion</th><th>Trainer</th><th>Telefon</th><th>Termin<br></th>
 </tr>
 <tr class="even">
-<td></td>
+<td>Trainer</td>
 <td>Bruno Brenner<br>Josef Kaim</td>
 <td>08272/ 1524<br>0172/ 5243923</td>
 <td>Freitag: 18.00 - 19.30 h</td>

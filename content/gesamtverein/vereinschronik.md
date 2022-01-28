@@ -4,6 +4,7 @@ layout: single
 menu:
   main:
     parent: gesamtverein
+weight: 22
 ---
 
 <p>Bereits nach dem ersten Weltkrieg im Jahr 1925 bestand in Zusamaltheim eine Fußballmannschaft, die Freundschaftsspiele gegen Mannschaften des näheren Umkreises bestritt (Roggden, Emersacker, Lauterbrunn, Welden, Zusamzell, Hennhofen, Villenbach, Binswangen, Ellerbach). Spieler dieser Mannschaft waren: Michael Bernhard, Josef und Johann Bacher, Ulrich Binswanger, Hans Kerner, Alois Kempter, Josef Mengele, Martin Demharter, Martin Steidle, Josef und Ludwig Reiter, Georg und Josef Feil und Jakob Hörbrand. <br>Diese Mannschaft hatte einen ganz schweren Stand, denn die Sportbegeisterung in der Bevölkerung war in dieser Zeit sehr gering. Der damalige Pfarrer von Zusamaltheim, Hochwürden Herr Linder, war strikt gegen kurze Hosen und stellte diese Fußballdressen als unsittliches Benehmen in der Öffentlichkeit dar. Diese Fußballmannschaft erhielt auch keine finanzielle Unterstützung durch die Gemeinde. Die Spieler mussten die Spielkleidung und die Bälle selber kaufen. Spielen durfte man überhaupt nur, wenn das Heu im Frühjahr und im Herbst eingebracht war.</p>

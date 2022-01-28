@@ -4,7 +4,7 @@ layout: single
 menu:
   main:
     parent: gesamtverein
-weight: 20
+weight: 25
 ---
 
 Adresse:

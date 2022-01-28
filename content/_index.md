@@ -15,4 +15,4 @@ Der VfL Zusamaltheim umfasst insgesamt vier Abteilungen.
 [![Turnen](/images/icons/athletics.jpg)]({{< ref "/turnen/_index.md" >}})
 
 
-[![Fussballschule](/images/fussballschule/Fussballschule.jpg)]({{< ref "/fussball/fussballschule.md" >}})
+[![Fussballschule](/images/fussballschule/fussballschule.jpg)]({{< ref "/fussball/fussballschule.md" >}})

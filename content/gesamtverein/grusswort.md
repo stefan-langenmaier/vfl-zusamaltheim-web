@@ -4,6 +4,7 @@ layout: single
 menu:
   main:
     parent: gesamtverein
+weight: 21
 ---
 
 Grußwort des Ehrenvorsitzenden Karl Binswanger

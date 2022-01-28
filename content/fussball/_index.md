@@ -4,6 +4,7 @@ layout: single
 menu:
   main:
     identifier: fussball
+weight: 40
 ---
 
 ## Ansprechpartner
