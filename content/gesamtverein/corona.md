@@ -7,7 +7,7 @@ menu:
 weight: 27
 ---
 
-### Coroan
+### Corona
 
 Der Corona-Virus und seine Varianten haben die ganze Welt im Griff!<br>
 Im Augenblick können leider nicht alle Veranstaltungen sowie Trainigs- und Wettkampfs-Einheiten wie geplant stattfinden!<br>
