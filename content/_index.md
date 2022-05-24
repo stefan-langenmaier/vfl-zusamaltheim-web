@@ -17,4 +17,6 @@ Der VfL Zusamaltheim umfasst insgesamt vier Abteilungen.
 
 [![Fussballschule](/images/fussballschule/fussballschule.jpg)]({{< ref "/fussball/fussballschule.md" >}})
 
-![Generalversammlung](/images/generalversammlung2022.jpg)
+![Dorffest](/images/Plakat_Dorffest_22.jpg)
+![Elfmeterturnier](/images/Plakat_Elfmeter-Turnier_22.jpg)
+![Turnierbestimmungen_Elfmeterturnier](/images/Turnierbestimmungen_Elfmeter-Turnier.jpeg)
