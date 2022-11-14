@@ -11,7 +11,8 @@ weight: 29
 
 Der VfL Zusamaltehim bietet in seinem Vereinsshop eine Auswahl an Sport- und Fankleidung mit VfL-Zusamaltehim Branding!<br>
 Egal ob aktiver Sportler oder VfL-Fan, hier gibt es für jeden das Richtige!<br>
-[![vereinsshop](/images/vereinsshop/vfl_vereinsshop.jpg)]({{< ref "/gesamtverein/vereinsshop.md" >}})<br>
+<br>
+[![vereinsshop](/images/Vereinsshop/vfl_vereinsshop.jpg)]({{< ref "/gesamtverein/vereinsshop.md" >}})<br>
 
 
 Worauf wartet ihr? 
