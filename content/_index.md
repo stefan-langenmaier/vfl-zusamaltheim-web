@@ -14,4 +14,8 @@ Der VfL Zusamaltheim umfasst insgesamt vier Abteilungen.
 [![Tischtennis](/images/icons/tabletennis.jpg)]({{< ref "/tischtennis/_index.md" >}})
 [![Turnen](/images/icons/athletics.jpg)]({{< ref "/turnen/_index.md" >}})
 
+<br>
+<br>
+### Nächste Termine des VfL Zusamaltheim
 
+![Weihnachtsfeier_VfL_22](/images/Weihnachtsfeier_VfL_22.jpeg)
