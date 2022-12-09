@@ -36,7 +36,7 @@ menu:
 </tbody>
 </table>
 
-### Übungsleiter
+### Übungsleiter*innen
 
 <table>
 <thead> 
