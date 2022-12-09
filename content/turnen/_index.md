@@ -18,13 +18,13 @@ menu:
 <tr class="odd">
 <td>Abteilungsleiter:</td>
 <td>Irene Kaim<br></td>
-<td>0172/ 9213340</td>
-<td><br></td>
+<td>0172 / 921 334 0</td>
+<td>irene.kaim@icloud.com<br></td>
 </tr>
 <tr class="even">
 <td>Abteilungsleiter (stv)</td>
-<td>Irene Kaim<br></td>
-<td>0172/ 9213340<br></td>
+<td>Dunja Reiter<br></td>
+<td>08272 / 6219<br></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -44,28 +44,22 @@ menu:
 <th>Sparte</th> <th>Übungsleiter</th> <th>Telefon</th> <th>Trainingstermin<br></th>
 </tr>
 <tr class="odd">
-<td>Mutti-Kind 1:</td>
-<td>Conni Hörbrand</td>
-<td>08296/ 909582</td>
-<td>Montag: 16.30 - 17.30 h</td>
-</tr>
-<tr class="even">
-<td>Mutti-Kind 2:</td>
-<td>Martina Mayrböck<br></td>
-<td>08272/ 642374<br></td>
-<td>Montag: 17.30 - 18.30 h<br></td>
+<td>Mutti-Kind:</td>
+<td>Maria Krüger<br>Arjan Plooij<br>Melanie Baumgart</td>
+<td>0152 / 531 243 95<br>0160 / 979 788 05<br>0163 / 726 606 5</td>
+<td>Montag: 16.30 - 18.00 h</td>
 </tr>
 <tr class="odd">
-<td>Kinderturnen</td>
+<td>Kinderturnen 1</td>
 <td>Simona Greif<br></td>
-<td>08272/ 642891</td>
+<td>08272 / 642 891</td>
 <td>Donnerstag: 16.30 - 17.30 h<br></td>
 </tr>
-<tr class="even">
-<td>Body-Fit (Kids)<br></td>
-<td>Daniela Meyerle<br></td>
-<td>08272/ 6170</td>
-<td>Donnerstag: 17.30 - 18:30 h<br></td>
+<tr class="odd">
+<td>Kinderturnen 2</td>
+<td>Simona Greif<br></td>
+<td>08272 / 642 891</td>
+<td>Donnerstag: 17.30 - 18.30 h<br></td>
 </tr>
 <tr class="odd">
 <td>Body-Fit</td>
@@ -74,16 +68,11 @@ menu:
 <td>Montag, 20.00 - 22.00 h</td>
 </tr>
 <tr class="even">
-<td>Step</td>
+<td>Step Aerobic</td>
 <td>Gertrud Mühlberger</td>
 <td>0176/72936348</td>
 <td>Donnerstag, 18.30 - 19.30 h</td>
-</tr>
-<tr class="odd">
-<td>Kindertanzen</td>
-<td>Melanie Braumgart</td>
-<td>0163/ 7266065</td>
-<td>xxx, xx.xx - xx.xx h</td>
+
 </tr>
 </thead> 
 <tbody>

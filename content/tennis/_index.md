@@ -33,7 +33,7 @@ menu:
 </tbody>
 </table>
 
-### Ansprechpartner - Mannschaftsführer - Tennis
+### Ansprechpartner - Mannschaftsführer*innen - Tennis
 
 <table>
 <thead> 
@@ -42,25 +42,20 @@ menu:
 </tr>
 <tr class="odd">
 <td>Mannschaftsführerin - Damen<br></td>
-<td>Anita Neukirchner<br></td>
-<td>08272/ 3325<br></td>
+<td>Renate Mauermair<br></td>
+<td>08272 / 1747<br></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Mannschaftsführerin - Damen Verband<br></td>
+<td>Sarah Kitzinger<br></td>
+<td>0176 616 859 53<br></td>
 <td></td>
 </tr>
 <tr class="even">
 <td>Mannschaftsführer - Herren<br></td>
-<td>Reinhold Wagner<br></td>
-<td>08272/ 5929<br></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Mannschaftsführererin - Mädchen<br></td>
-<td>Hannah Birkholz<br></td>
-<td>08296/ 909885<br></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Mannschaftsführer - Jungen<br></td>
-<td></td>
+<td>Thomas Eisenkolb<br></td>
+<td>0171 / 241 349 7<br></td>
 <td></td>
 <td></td>
 </tr>
@@ -84,12 +79,6 @@ menu:
 <tr class="even">
 <td>Herren<br></td>
 <td>Jeden Dienstag ab 18:00 Uhr<br></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Kids / Jugend<br></td>
-<td>Jeden Freitag ab 16:00 Uhr<br></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>

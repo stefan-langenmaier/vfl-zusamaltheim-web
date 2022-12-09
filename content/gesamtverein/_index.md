@@ -6,7 +6,7 @@ menu:
     identifier: gesamtverein
 weight: 10
 ---
-[![Vorstandschaft VfL Zusamaltheim](/images/Vorstandschaft/vorstandschaft_2021.jpg)]({{< ref "/gesamtverein/_index.md" >}})
+[![Vorstandschaft VfL Zusamaltheim](/images/Vorstandschaft/vorstandschaft_2022.jpg)]({{< ref "/gesamtverein/_index.md" >}})
 
 ## Ansprechpartner
 
@@ -68,7 +68,7 @@ weight: 10
 </tr>
 <tr>
 <td>Josef Kaim</td>
-<td>Kaim@top-vers.de</td>
+<td>josef.kaim@icloud.com</td>
 <td>Tel: 0172 / 524 392 3</td>
 <td>86637 Zusamaltheim<br>Mühlenweg 1</td>
 </tr>
@@ -79,22 +79,16 @@ weight: 10
 <td>89407 Kicklingen<br>Kreuzfeldweg 2</td>
 </tr>
 <tr>
-<td>Jochen Manzenrieder</td>
-<td>jochen.manzenrieder@freenet.de</td>
-<td>Tel: 0176 / 833 297 56</td>
-<td>86637 Zusamaltheim<br>Alte Wertinger Straße 4</td>
+<td>Arjan Plooij</td>
+<td>plooija85@googlemail.com</td>
+<td>Tel: 0160 / 979 788 05</td>
+<td>86637 Zusamaltheim<br>Wertinger Straße 8</td>
 </tr>
 <tr>
 <td>Andreas Lernhard</td>
 <td>andreas.lernhard@web.de</td>
 <td>Tel: 0175 / 260 618 3</td>
 <td>86637 Zusamaltheim<br>Feldstraße 7</td>
-</tr>
-<tr>
-<td>Heidrun Thaler</td>
-<td>heidrun.thaler@gmx.de</td>
-<td>Tel: 0177 / 633 203 3</td>
-<td>86637 Hettlingen / Zusamaltheim<br>Wirkaustraße 21</td>
 </tr>
 <tr>
 <td>Maximilian Böhm</td>
@@ -114,27 +108,25 @@ weight: 10
 <td>Tel: 0160 / 938 150 63</td>
 <td>86637 Wertingen<br>Edlhardstraße 2</td>
 </tr>
-
+<tr>
 <tr class="even">
 <td align="right">Jugendleiter-Fussball:<br><br></td>
-<td>Markus Hefele<br><br></td>
+<td>Markus Hefele<br></td>
 <td>markus9@online.de<br><br></td>
 <td>Tel: 0152 / 292 303 59<br><br></td>
 <td>86637 Zusamaltheim / Sontheim<br>Sattlergasse 4</td>
 </tr>
 <tr class="odd">
 <td align="right">Abteilungsleiter-Fußball:<br><br></td>
-<td>Arjan Plooij<br></td>
-<td>arjan.plooij@bshg.com<br><br></td>
-<td>
-<p>Tel: 0160 / 979 788 05</p>
-</td>
-<td>86637 Zusamaltheim<br>Wertinger Straße 8</td>
+<td>Jochen Manzenrieder<br></td>
+<td>jochen.manzenrieder@freenet.de<br><br></td>
+<td>Tel: 0176 / 833 297 56<br><br></td>
+<td>86637 Zusamaltheim<br>Alte Wertinger Straße 4</td>
 </tr>
 <tr class="even">
 <td align="right">Abteilungsleiter-BodyFit:<br><br></td>
 <td>Irene Kaim<br><br></td>
-<td>irene.kaim@top-vers.de<br><br></td>
+<td>irene.kaim@icloud.com<br><br></td>
 <td>Tel: 0172 / 921 334 0<br><br></td>
 <td>86637 Zusamaltheim<br>Mühlenweg 1</td>
 </tr>
