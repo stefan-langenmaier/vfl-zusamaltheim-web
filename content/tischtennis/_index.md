@@ -30,7 +30,7 @@ menu:
 <tr class="odd">
 <td>Jugendwart:<br></td>
 <td>Josef Kaim</td>
-<td>08272 /999510 (g)<br>0172 / 524 392 3</td>
+<td>0172 / 524 392 3</td>
 <td><a title="Mail an Herrn Josef Kaim" href="mailto:kaim@top-vers.de">josef.kaim@icloud.com</a></td>
 </tr>
 <tr class="even">
@@ -85,13 +85,13 @@ menu:
 <td>1. Jungenmannschaft</td>
 <td>Josef Kaim<br></td>
 <td>0172 / 524 392 3</td>
-<td><a title="Mail an Herrn Josef Kaim" href="mailto:josef.kaim@icloud.de">joswf.kaim@icloud.de</a></td>
+<td><a title="Mail an Herrn Josef Kaim" href="mailto:josef.kaim@icloud.de">josef.kaim@icloud.de</a></td>
 </tr>
 <tr class="odd">
 <td>2. Jungenmannschaft</td>
 <td>Josef Kaim<br></td>
 <td>0172 / 524 392 3</td>
-<td><a title="Mail an Herrn Josef Kaim" href="mailto:josef.kaim@icloud.de">joswf.kaim@icloud.de</a></td>
+<td><a title="Mail an Herrn Josef Kaim" href="mailto:josef.kaim@icloud.de">josef.kaim@icloud.de</a></td>
 
 </tr>
 </tbody>

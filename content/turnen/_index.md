@@ -65,7 +65,7 @@ menu:
 <td>Body-Fit</td>
 <td>Dunja Reiter</td>
 <td>08272/ 6219</td>
-<td>Montag, 20.00 - 22.00 h</td>
+<td>Montag, 20.00 - 21.00 h</td>
 </tr>
 <tr class="even">
 <td>Step Aerobic</td>
