@@ -18,4 +18,6 @@ Der VfL Zusamaltheim umfasst insgesamt vier Abteilungen.
 <br>
 ### Nächste Termine des VfL Zusamaltheim
 
-![Generalversammlung_VfL_2023](/images/generalversammlung2023.jpg)
+![Weihnachtsfeier_2023](/images/Weihnachtsfeier_2023.jpg)
+<br>
+![Hans-Dorfner_Fußballschule_2024](/images/fussballschule/fussballschule_24.jpg)

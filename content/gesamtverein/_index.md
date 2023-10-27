@@ -132,10 +132,10 @@ weight: 10
 </tr>
 <tr class="odd">
 <td align="right">Abteilungsleiter-Tischtennis:<br><br></td>
-<td>Andreas Schlagehaft<br><br></td>
-<td>schlagenhafta@protonmail.ch<br><br></td>
-<td>Tel: 0152 / 233 438 46<br><br></td>
-<td>86637 Zusamaltheim<br>Wertinger Straße 8</td>
+<td>Johannes Lutz<br><br></td>
+<td>Jo20Lu00@gmail.com<br><br></td>
+<td>Tel: 0176 / 555 353 96<br><br></td>
+<td>86637 Sontheim<br>Am Sonnenberg 1</td>
 </tr>
 <tr class="even">
 <td align="right">Abteilungsleiter -Tennis:<br><br></td>

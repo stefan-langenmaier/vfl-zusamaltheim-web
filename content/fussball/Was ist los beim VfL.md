@@ -10,6 +10,19 @@ weight: 45
 
 <b>Was ist beim VfL Zusamaltheim in der Abteilung Fußball alles geboten?</b>
 <br>
+<br>Juni 2023<br>
+<b>Verabschiedung verdienter Spieler </b><br>
+Der VfL verabschiedet im Rahmen des Fussball-Saisonabschluss verdiene Spielern und Trainern in den 'Ruhestand'!<br>
+[![Abschied](/images/abschied.jpg)]({{< ref "/fussball/Was ist los beim VfL.md" >}})<br>
+Karriereende:<br>
+   - Rudolf Wagner<br>
+   - Stefan Langemaier<br>
+   - Michael Schmid<br>
+   - Günther Egger (Trainer VfL II)<br>
+Vereinswechsel:<br>
+   - Jonas Wünsch<br>
+
+<br>
 <br>Oktober 2022<br>
 <b>Fahrt zum Spieltagscamp der FC Augsburg - Fußballschule</b><br>
 Bereits zum zweiten Mal in diesem Jahr durften die Nachwuchsfußballer der 

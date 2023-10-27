@@ -13,6 +13,7 @@ Der Vfl Zusamaltheim kann voller Stolz auf eine prächtige Sportanlage blicken.<
 Diese besteht aus einem Hauptspielfeld (renoviert 2013) und einen großen Trainigsplatz (beleuchtetes Normspielfeld und beleuchtets Junioren-Spielfeld) (renoviert 2008)<br>
 [![sportplatz_1](/images/Sportanlage/Sportplatz_1.jpeg)]({{< ref "/gesamtverein/sportanlage.md" >}})<br>
 [![sportplatz_2](/images/Sportanlage/Sportplatz_2.jpeg)]({{< ref "/gesamtverein/sportanlage.md" >}})<br>
+[![spielplatz](/images/Sportanlage/spielplatz.jpg)]({{< ref "/gesamtverein/sportanlage.md" >}})<br>
 
 ### Sportheim
 

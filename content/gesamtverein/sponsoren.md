@@ -14,6 +14,8 @@ Der VfL Zusamaltheim bedankt sich bei allen Sponsoren! Herzlichen Danke für Eur
 [![plooij](/images/Sponsoren/Plooij_3.jpg)]({{< ref "/gesamtverein/sponsoren.md" >}})<br>
 [![sts](/images/Sponsoren/sts_3.jpg)]({{< ref "/gesamtverein/sponsoren.md" >}})<br>
 [![schwarzmann](/images/Sponsoren/Schwarzmann_3.jpg)]({{< ref "/gesamtverein/sponsoren.md" >}})<br>
+[![prosementis](/images/Sponsoren/prosementis.jpg)]({{< ref "/gesamtverein/sponsoren.md" >}})<br>
+[![schwarzmann](/images/Sponsoren/plooij_2.jpg)]({{< ref "/gesamtverein/sponsoren.md" >}})<br>
 <br><br><br>
 
 [![ausperger](/images/Sponsoren/Bande_Ausperger.jpeg)]({{< ref "/gesamtverein/sponsoren.md" >}})<br>
