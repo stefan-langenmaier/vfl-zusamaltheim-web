@@ -1,0 +1,36 @@
+Microsoft Windows [Version 10.0.19045.3570]
+(c) Microsoft Corporation. Alle Rechte vorbehalten.
+
+C:\>cd Rudi
+
+C:\Rudi>cd VfL Zusamaltheim
+
+C:\Rudi\VfL Zusamaltheim>cd website
+
+C:\Rudi\VfL Zusamaltheim\Website>cd vfl-zusamaltheim-web
+
+C:\Rudi\VfL Zusamaltheim\Website\vfl-zusamaltheim-web>..\hugo.exe server
+Building sites …
+                   | EN
++------------------+-----+
+  Pages            |  33
+  Paginator pages  |   0
+  Non-page files   |   0
+  Static files     | 235
+  Processed images |   0
+  Aliases          |   0
+  Sitemaps         |   1
+  Cleaned          |   0
+
+Total in 609 ms
+Watching for changes in C:\Rudi\VfL Zusamaltheim\Website\vfl-zusamaltheim-web\{content,static,themes}
+Watching for config changes in C:\Rudi\VfL Zusamaltheim\Website\vfl-zusamaltheim-web\config.toml
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+
+
+
+
+
