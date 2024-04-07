@@ -16,6 +16,5 @@ Egal ob aktiver Sportler oder VfL-Fan, hier gibt es für jeden das Richtige!<br>
 
 
 Worauf wartet ihr? 
-Jetzt shoppen unter [https://verein.sc24.com/VfL-Zusamaltheim-1948-Fussball](https://verein.sc24.com/VfL-Zusamaltheim-1948-Fussball).
-
+Jetzt shoppen unter [https://www.teamstolz.de/vereinsshop/vfl-zusamaltheim/](https://www.teamstolz.de/vereinsshop/vfl-zusamaltheim/).
 
