@@ -22,7 +22,7 @@ Email: mitglieder-vflzusamaltheim@gmx.de
 
 Mitgliedsantrag VfL Zusamaltheim (bitte ausdrucken):
 
-[Download](/docs/Beitragsformular_mit_SEPA_neu_2023.pdf)
+[Download](/docs/Beitragsformular_mit_SEPA_neu_2024.pdf)
 
 
 

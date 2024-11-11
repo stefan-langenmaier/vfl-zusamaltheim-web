@@ -23,11 +23,6 @@ weight: 40
 <td><a title="Mail an Herrn Jochen Manzenrieder" href="mailto:jochen.manzenrieder@freenet,de">jochen.manzenrieder@freenet.de</a></td>
 </tr>
 <tr>
-<td>Abteilungsleiter(stv)</td>
-<td>Arjan Plooij</td>
-<td>0160 / 979 788 05</td>
-<td><a title="Mail an Herrn Arjan Plooij" href="mailto:plooija85@googlemail.com">plooija85@googlemail.com</a></td>
-</tr>
 <tr class="even">
 <td>Jugendleiter:</td>
 <td>Markus Hefele</td>
@@ -44,8 +39,8 @@ weight: 40
 </tr>
 <tr class="odd">
 <td>Ergebnisdienst:<br>(Sportheim)</td>
-<td>Sportheim <br> Obere Dorfstr.</td>
-<td>08272 / 3158</td>
+<td>Sportheim <br> Obere Dorfstr. 23</td>
+<td>
 <td><a title="Mail an VfL Zusamaltheim" href="mailtto:info@vflzusamaltheim.de">info@vflzusamaltheim.de</a></td>
 </tr>
 </tbody>

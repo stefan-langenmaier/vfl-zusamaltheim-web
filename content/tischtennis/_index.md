@@ -17,15 +17,15 @@ menu:
 <tbody>
 <tr class="odd">
 <td>Abteilungsleiter:</td>
-<td>Andreas Schlagehaft<br></td>
-<td>0152 / 233 438 46<br></td>
-<td><a title="Mail an Herrn Andreas Schlagenhaft" href="mailto:schlagenhafta@protonmail.ch">schlagenhafta@protonmail.ch</a><br></td>
+<td>Johannes Lutz<br></td>
+<td>0176 / 555 353 96<br></td>
+<td><a title="Mail an Herrn Johannes Lutz" href="mailto:Jo20Lu00@gmail.com">Jo20Lu00@gmail.com</a><br></td>
 </tr>
 <tr class="even">
 <td>Abteilungsleiter<br>(Stellvertreter)</td>
+<td>Michael Meyerle<br></td>
 <td></td>
-<td></td>
-<td></td>
+<td><a title="Mail an Herrn Michael Meyerle" href="mailto:michael.meyerle@gmx.de">michael.meyerle@gmx.de</a><br></td>
 </tr>
 <tr class="odd">
 <td>Jugendwart:<br></td>
