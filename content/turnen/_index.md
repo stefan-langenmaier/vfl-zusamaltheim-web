@@ -68,9 +68,9 @@ menu:
 <td>Montag, 20.00 - 21.00 h</td>
 </tr>
 <tr class="even">
-<td>Step Aerobic</td>
-<td>Gertrud Mühlberger</td>
-<td>0176/72936348</td>
+<td>Zumba</td>
+<td>Nadine Vogt</td>
+<td>0176 / 349 400 26</td>
 <td>Donnerstag, 18.30 - 19.30 h</td>
 
 </tr>

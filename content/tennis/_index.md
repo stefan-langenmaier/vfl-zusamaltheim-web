@@ -23,9 +23,9 @@ menu:
 </tr>
 <tr class="even">
 <td>Abteilungsleiter (stv)</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Rudi Kohler<br></td>
+<td>0157 / 850 790 96<br></td>
+<td><br></td>
 </tr>
 <tr>
 </tr>
@@ -42,12 +42,6 @@ menu:
 </tr>
 <tr class="odd">
 <td>Mannschaftsführerin - Damen<br></td>
-<td>Renate Mauermair<br></td>
-<td>08272 / 1747<br></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Mannschaftsführerin - Damen Verband<br></td>
 <td>Sarah Kitzinger<br></td>
 <td>0176 616 859 53<br></td>
 <td></td>

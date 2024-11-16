@@ -10,6 +10,13 @@ weight: 45
 
 <b>Was ist beim VfL Zusamaltheim in der Abteilung Tennis alles geboten?</b>
 <br>
+<br>November 2024<br>
+<br><br>
+<b>Sachbeschädigung Tennisheim </b><br>
+<br><br>
+[![Sachbeschädigung](/images/Sachbeschädigung.jpg)]({{< ref "/tennis/Was ist los in der Abt. Tennis.md" >}})<br>
+<br><br>
+
 <br>August 2023<br>
 <br><br>
 <b>Damen werden zum wiederholten Male Meister </b><br>

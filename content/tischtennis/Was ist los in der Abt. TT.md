@@ -9,7 +9,14 @@ menu:
 
 <b>Was ist beim VfL Zusamaltheim in der Abteilung Tischtennis alles geboten?</b>
 <br>
+<br>November 2024<br>
+<br>
+<b>Vereinsmeisterschaft </b><br>
+<br><br>
+[![Vereinsmeisterschaft](/images/tischtennis_3.jpg)]({{< ref "/tischtennis/Was ist los in der Abt. TT.md" >}})<br>
+<br><br>
 <br>Dezember 2022<br>
+<br>
 <b>Weihnachtsfeier Abteilung TT</b><br>
 Am 18.12.2022 fand die Weihnachtsfeier mit der Jugendvereinsmeisterschaft statt.<br>
 Um 9.30 Uhr wurde in der Halle turnierfertig aufgebaut und um 10 Uhr begannen die Spiele.<br> 

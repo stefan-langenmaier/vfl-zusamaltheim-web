@@ -24,26 +24,20 @@ menu:
 <tr class="even">
 <td>Abteilungsleiter<br>(Stellvertreter)</td>
 <td>Michael Meyerle<br></td>
-<td></td>
+<td>0152 / 262 988 66</td>
 <td><a title="Mail an Herrn Michael Meyerle" href="mailto:michael.meyerle@gmx.de">michael.meyerle@gmx.de</a><br></td>
 </tr>
 <tr class="odd">
 <td>Jugendwart:<br></td>
-<td>Josef Kaim</td>
-<td>0172 / 524 392 3</td>
-<td><a title="Mail an Herrn Josef Kaim" href="mailto:kaim@top-vers.de">josef.kaim@icloud.com</a></td>
-</tr>
-<tr class="even">
-<td>Pressewart-Internet</td>
-<td>Andre Deppenwiese</td>
-<td>08272 / 9470<br></td>
-<td><a title="Mail an Herrn Andre Deppenwiese" href="mailto:andre-deppenwiese@online.de">andre-deppenwiese@online.de</a><br></td>
+<td>Ralf Gumpp</td>
+<td>0172 / 861 852 1</td>
+<td><a title="Mail an Herrn Ralf Gumpp" href="mailto:xxxx">xxxx</a></td>
 </tr>
 <tr class="odd">
 <td>Gerätewart</td>
 <td>Werner Tepasse</td>
 <td>08296 / 1472</td>
-<td></td>
+<td><a title="Mail an Herrn Werner Tepasse" href="mailto:xxxx">xxxx</a></td>
 </tr>
 </tbody>
 </table>
@@ -57,9 +51,9 @@ menu:
 </tr>
 <tr class="even">
 <td>Trainer</td>
-<td>Ralf Gumpp<br>Josef Kaim</td>
-<td>0172 / 861 852 1<br>0172 / 524 392 3</td>
-<td>Dienstag: 18.00 - 19.30 Uhr<br>Mittwoch: 18:00 - 22:00 Uhr<br>Freitag: 18.00 - 19.30 Uhr</td>
+<td>Ralf Gumpp<br>Michael Meyerle</td>
+<td>0172 / 861 852 1<br>0152 / 262 988 66</td>
+<td>Dienstag: 18.00 - 21.00 Uhr<br>Freitag: 18.00 - 21.00 Uhr</td>
 </tr>
 </thead> 
 <tbody>
@@ -77,21 +71,16 @@ menu:
 <tbody>
 <tr class="odd">
 <td>1. Herrenmannschaft</td>
-<td>Jürgen Reiter<br></td>
-<td>0172 / 923 134 8<br></td>
-<td><a title="Mail an Herrn Jürgen Reiter" href="mailto:mail@reitermetall.de">mail@reitermetall.de</a></td>
+<td>Michael Meyerle<br></td>
+<td>0152 / 262 988 66<br></td>
+<td><a title="Mail an Herrn Michael Meyerle" href="mailto:michael.meyerle@gmx.de">michael.meyerle@gmx.de</a></td>
 </tr>
 <tr class="odd">
 <td>1. Jungenmannschaft</td>
-<td>Josef Kaim<br></td>
-<td>0172 / 524 392 3</td>
-<td><a title="Mail an Herrn Josef Kaim" href="mailto:josef.kaim@icloud.de">josef.kaim@icloud.de</a></td>
-</tr>
-<tr class="odd">
-<td>2. Jungenmannschaft</td>
-<td>Josef Kaim<br></td>
-<td>0172 / 524 392 3</td>
-<td><a title="Mail an Herrn Josef Kaim" href="mailto:josef.kaim@icloud.de">josef.kaim@icloud.de</a></td>
+<td>Michael Meyerle<br></td>
+<td>0152 / 262 988 66</td>
+<td><a title="Mail an Herrn Michael Meyerle" href="mailto:michael.meyerle@gmx.de">michael.meyerle@gmx.de</a></td>
+
 
 </tr>
 </tbody>
