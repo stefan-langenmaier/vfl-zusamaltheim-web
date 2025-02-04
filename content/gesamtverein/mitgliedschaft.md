@@ -16,13 +16,12 @@ Wenn Sie an einer Mitgliedschaft beim VfL Zusamaltheim interessiert sind, dann d
 Er wird sich anschließend umgehend mit Ihnen in Verbindung setzen.
 
 ```text
-Telefon: 0176 / 322 815 67
 Email: mitglieder-vflzusamaltheim@gmx.de
 ```
 
 Mitgliedsantrag VfL Zusamaltheim (bitte ausdrucken):
 
-[Download](/docs/Beitragsformular_mit_SEPA_neu_2024.pdf)
+[Download](/docs/Beitragsformular_mit_SEPA_neu_2025.pdf)
 
 
 
