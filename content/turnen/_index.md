@@ -71,7 +71,7 @@ menu:
 <td>Zumba</td>
 <td>Nadine Vogt</td>
 <td>0176 / 349 400 26</td>
-<td>Donnerstag, 18.30 - 19.30 h</td>
+<td>Donnerstag, 19.00 - 20.00 h</td>
 
 </tr>
 </thead> 
