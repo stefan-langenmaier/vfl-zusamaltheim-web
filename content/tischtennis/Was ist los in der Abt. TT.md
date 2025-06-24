@@ -9,6 +9,14 @@ menu:
 
 <b>Was ist beim VfL Zusamaltheim in der Abteilung Tischtennis alles geboten?</b>
 <br>
+<br>Juni 2025<br>
+<br>
+<b>Jugendtraining </b><br>
+Im Jugendtraining ist ganz schön was los!
+Hier ist für jeden was dabei. Es wird mit und ohne Ball trainiert und gespielt!
+<br><br>
+[![Jugendtraining](/images/tischtennis_4.jpg)]({{< ref "/tischtennis/Was ist los in der Abt. TT.md" >}})<br>
+<br><br>
 <br>November 2024<br>
 <br>
 <b>Vereinsmeisterschaft </b><br>

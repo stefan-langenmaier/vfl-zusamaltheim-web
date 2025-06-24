@@ -10,6 +10,14 @@ weight: 45
 
 <b>Was ist beim VfL Zusamaltheim in der Abteilung Tennis alles geboten?</b>
 <br>
+<br>Juni 2025<br>
+<br><br>
+<b>Jugendtraining </b><br>
+Erstmalig seit lnger Zeit finet wieder Jugendtraining am Tennisplatz statt.
+Die Kinder und Jegendlichen sind begeistert und freuen sich auf jede Trainingseinheit.
+<br><br>
+[![Jugendtraining](/images/tennis_3.jpg)]({{< ref "/tennis/Was ist los in der Abt. Tennis.md" >}})<br>
+<br><br>
 <br>November 2024<br>
 <br><br>
 <b>Sachbeschädigung Tennisheim </b><br>
