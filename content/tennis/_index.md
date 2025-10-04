@@ -17,14 +17,14 @@ menu:
 <tbody>
 <tr class="odd">
 <td>Abteilungsleiter:</td>
-<td>Rudi Kohler<br></td>
+<td>Rudi Kohlert<br></td>
 <td>0157 / 850 790 96<br></td>
 <td>r.kohlert@gmx.de<br></td>
 </tr>
 <tr class="even">
 <td>Abteilungsleiter (stv)</td>
 <td>Josef Rupp<br></td>
-<td>xxxx<br></td>
+<td>0151 / 708 306 44<br></td>
 <td>xxxx<br></td>
 </tr>
 <tr>
