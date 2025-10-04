@@ -9,6 +9,15 @@ menu:
 
 <b>Was ist beim VfL Zusamaltheim in der Abteilung Tischtennis alles geboten?</b>
 <br>
+<br>September 2025<br>
+<br>
+<b>Danke an die Firma Ausperger </b><br>
+Neue Trikots für die Seniorenmannschaft<br>
+Die Herren des VfL Zusamaltheim sind dank der Firma Ausperger bereit für die kommende Saison.
+<br><br>
+[![Sponsoring_TT_Ausperger](/images/tischtennis_5.jpg)]({{< ref "/tischtennis/Was ist los in der Abt. TT.md" >}})<br>
+<br><br>
+<br>
 <br>Juni 2025<br>
 <br>
 <b>Jugendtraining </b><br>

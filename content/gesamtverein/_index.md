@@ -145,10 +145,10 @@ weight: 10
 <tr>
 <tr class="even">
 <td align="right">Abteilungsleiter -Tennis:<br><br></td>
-<td>Thomas Eisenkolb<br><br></td>
-<td>thomas-eisenkolb@t-online.de<br></td>
-<td>Tel: 0171 / 241 349 7<br></td>
-<td>86637 Zusamaltheim<br>Alte Weiherstraße 2a</td>
+<td>Rudi Kohler<br><br></td>
+<td>r.kohlert@gmx.de<br></td>
+<td>0157 / 850 790 96<br></td>
+<td>xxxx<br>xxxx</td>
 <tr>
 </tbody>
 </table>

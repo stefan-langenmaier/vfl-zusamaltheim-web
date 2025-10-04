@@ -17,15 +17,15 @@ menu:
 <tbody>
 <tr class="odd">
 <td>Abteilungsleiter:</td>
-<td>Thomas Eisenkolb<br></td>
-<td>08272 / 606 321 4<br>Tel: 0171 / 241 349 7<br></td>
-<td>thomas-eisenkolb@t-online.de<br></td>
+<td>Rudi Kohler<br></td>
+<td>0157 / 850 790 96<br></td>
+<td>r.kohlert@gmx.de<br></td>
 </tr>
 <tr class="even">
 <td>Abteilungsleiter (stv)</td>
-<td>Rudi Kohler<br></td>
-<td>0157 / 850 790 96<br></td>
-<td><br></td>
+<td>Josef Rupp<br></td>
+<td>xxxx<br></td>
+<td>xxxx<br></td>
 </tr>
 <tr>
 </tr>

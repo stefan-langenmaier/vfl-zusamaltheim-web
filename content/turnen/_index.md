@@ -45,27 +45,27 @@ menu:
 </tr>
 <tr class="odd">
 <td>Mutti-Kind:</td>
-<td>Maria Krüger<br>Arjan Plooij<br>Melanie Baumgart</td>
-<td>0152 / 531 243 95<br>0160 / 979 788 05<br>0163 / 726 606 5</td>
-<td>Montag: 16.30 - 18.00 h</td>
+<td>Arjan Plooij<br>Kathrin Niesner<br>Anita Kramer</td>
+<td>0160 / 979 788 05<br>0151 / 110 808 15<br>xxxx</td>
+<td>Montag: 16.15 - 17.45 h</td>
 </tr>
 <tr class="odd">
-<td>Kinderturnen 1</td>
-<td>Simona Greif<br></td>
-<td>08272 / 642 891</td>
-<td>Donnerstag: 16.30 - 17.30 h<br></td>
-</tr>
+<td>Gesundheitsgymnastik</td>
+<td>Wolfgang Patz<br></td>
+<td>0151 / 125 416 18</td>
+<td>Montag: 19.00 - 19.45 h<br></td></tr>
 <tr class="odd">
-<td>Kinderturnen 2</td>
-<td>Simona Greif<br></td>
-<td>08272 / 642 891</td>
-<td>Donnerstag: 17.30 - 18.30 h<br></td>
 </tr>
 <tr class="odd">
 <td>Body-Fit</td>
 <td>Dunja Reiter</td>
-<td>08272/ 6219</td>
+<td>08272 / 6219</td>
 <td>Montag, 20.00 - 21.00 h</td>
+</tr>
+<td>Kinderturnen</td>
+<td>Simona Greif<br>Melanie Baumgart<br>Maria Krüger</td>
+<td>0151 / 128 106 89<br>0163 / 726 606 5<br>0152 / 531 243 95</td>
+<td>Donnerstag: 17.00 - 18.30 h<br></td>
 </tr>
 <tr class="even">
 <td>Zumba</td>
