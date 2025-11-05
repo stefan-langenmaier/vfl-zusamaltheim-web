@@ -25,7 +25,7 @@ menu:
 <td>Abteilungsleiter (stv)</td>
 <td>Josef Rupp<br></td>
 <td>0151 / 708 306 44<br></td>
-<td>xxxx<br></td>
+<td>j.rupp5555@gmail.com<br></td>
 </tr>
 <tr>
 </tr>

@@ -79,4 +79,5 @@ menu:
 </tbody>
 </table>
 <br>
-[![Turnen](/images/turnen_2.jpg)]({{< ref "/turnen/_index.md" >}})
+[![Turnen1](/images/Kinderturnen_1.jpeg)]({{< ref "/turnen/_index.md" >}})
+[![Turnen2](/images/Kinderturnen_2.jpeg)]({{< ref "/turnen/_index.md" >}})
