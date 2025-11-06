@@ -9,14 +9,14 @@ weight: 41
 ---
 
 
-## Die Hans-Dorfner Fußssballschule kommt 2024 wieder nach Zusamaltheim!<br> Termin: Fr. 02.08. - So. 04.08.2024 (3 Tage) 
+## Die Hans-Dorfner Fußssballschule kommt 2026 wieder nach Zusamaltheim!<br> Termin: Fr. 31.07. - So. 02.08.2026 (3 Tage) 
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wetdtjVIxOQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Fussballschule](/images/fussballschule/fussballschule_24.jpg)]({{< ref "/fussball/fussballschule.md" >}})<br>
+[![Fussballschule](/images/fussballschule/fussballschule_2026.jpeg)]({{< ref "/fussball/fussballschule.md" >}})<br>
 
 Also Jungs und Mädels, worauf wartet ihr? 
-Jetzt informieren und anmelden unter [https://dorfnerfussballcamp.de/camps/zusamaltheim/](https://dorfnerfussballcamp.de/camps/zusamaltheim/).
+Jetzt informieren und anmelden unter [https://fussballferien.de/camps/zusamaltheim/](https://fussballferien.de/camps/zusamaltheim/).
 
 
 
